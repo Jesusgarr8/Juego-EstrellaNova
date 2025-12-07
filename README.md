@@ -13,5 +13,5 @@ Las limitaciones son que no me hago responsable de garantizar que el softaware f
 
 Económicamente puedo monetizar mi juego con objetos y aspectos exclusivos mientras que permito que todos puedan disfrutar de mi juego de forma gratuita y compartiendo la parte técnica para la comunidad de desarrolladores, por lo cual también es ético.
 
-![Logo]<img width="1024" height="1024" alt="Logo EstrellaNova (1)" src="https://github.com/user-attachments/assets/a7188a71-fce3-4ffb-a077-334f36e1bd0e" />
+<img width="1024" height="1024" alt="Logo EstrellaNova (1)" src="https://github.com/user-attachments/assets/a7188a71-fce3-4ffb-a077-334f36e1bd0e" />
 
